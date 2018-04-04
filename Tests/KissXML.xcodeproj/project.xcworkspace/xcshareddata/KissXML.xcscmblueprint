@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "70A8537565E8EBD1B9D364933832E742DD9D1D11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : 0,
+    "225E439CB3AC1EE7CAD36E6BB3332B2D62D783A2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7AD801E-6605-4181-8E91-A5A50036D306",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : "KissXML\/",
+    "225E439CB3AC1EE7CAD36E6BB3332B2D62D783A2" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KissXML",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tests\/KissXML.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/leshko\/myproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "225E439CB3AC1EE7CAD36E6BB3332B2D62D783A2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/KissXML.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70A8537565E8EBD1B9D364933832E742DD9D1D11"
+    }
+  ]
+}
